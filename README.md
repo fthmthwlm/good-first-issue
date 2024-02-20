@@ -13,15 +13,19 @@ To get started, follow these steps:
 Feel free to include your name and link in the `index.json` file.
 
 Open your terminal and execute the following command:
+
 ```
 npx http-server
 ```
+
 This will start a local server.
 
 Next, open your preferred web browser and enter the following URL in the address bar:
+
 ```
 http://localhost:8080
 ```
+
 This will take you to the webpage.
 
 Your contribution will be displayed on the webpage.
