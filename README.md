@@ -1,37 +1,39 @@
-# good-first-issue
+# Good First Issue
 
 🚀 Let’s Contribute to Open Source!
 
-## Good First Issue
+## Introduction
 
-This repository is designed to help beginners take their first steps into open source contributions.
+Welcome to the Good First Issue repository! This project aims to provide a platform for beginners to make their first contributions to open source.
 
-## Getting Started
+## About
 
-To get started, follow these steps:
+This repository is designed to help you get started with open source contributions. It provides a friendly environment where you can learn and grow as a developer.
 
-Feel free to include your name and link in the `index.json` file.
+## How to Get Started
 
-Open your terminal and execute the following command:
+To start contributing, follow these simple steps:
+
+Make sure you have index.json file in the repository.
+
+Feel free to include your name in the index.json file. The name field is mandatory, while the link and style fields are optional.
+
+Open your terminal and run the following command to start a local server:
 
 ```
 npx http-server
 ```
 
-This will start a local server.
-
-Next, open your preferred web browser and enter the following URL in the address bar:
+This will start a local server. Open your preferred web browser and enter the following URL in the address bar:
 
 ```
 http://localhost:8080
 ```
 
-This will take you to the webpage.
-
-Your contribution will be displayed on the webpage.
+You will be taken to the webpage where your contribution will be displayed.
 
 ## Live Access
 
-For live access to the site, click the following [link](https://fthmthwlm.github.io/good-first-issue/)!
+To access the live site, click the following [link](https://fthmthwlm.github.io/good-first-issue/). Explore and enjoy!
 
 Happy contributing! 🚀
