@@ -1,4 +1,10 @@
 #index {
   display: flex;
   gap: 1rem;
+  margin: 1rem;
+}
+
+#index > div {
+  display: flex;
+  gap: 0.1rem;
 }
