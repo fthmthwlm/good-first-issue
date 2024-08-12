@@ -1,9 +1,19 @@
+const userName = prompt("Please enter your name:");
+
+// Set the input as the heading
+if (userName) {
+  document.getElementById("dynamicHeading").textContent = `Hi, ${userName}!`;
+} else {
+  document.getElementById("dynamicHeading").textContent = "Hi, Guest!";
+}
+
 const defaultDark = function () {
   return {
     "background-color": "DimGray",
     color: "White",
   };
 };
+
 
 const defaultStyle = function () {
   return {
