@@ -1,3 +1,4 @@
 [
-  { "name": "fthmthwlm", "link": "https://github.com/fthmthwlm", "style": { "background-color": "LightBlue" }, "dark": { "background-color": "DarkBlue" } }
+  { "name": "fthmthwlm", "link": "https://github.com/fthmthwlm", "style": { "background-color": "LightBlue" }, "dark": { "background-color": "DarkBlue" } },
+  { "name": "Aditya.J", "link": "https://adidevv.vercel.app", "style": { "background-color": "grey" }, "dark": { "background-color": "beige" } }
 ]
