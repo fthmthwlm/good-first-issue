@@ -138,3 +138,8 @@ const start = function () {
     console.error("Error fetching data:", error);
   }
 })();
+
+
+window.onload = function() {
+      alert("👋 Welcome to our website!");
+    };
