@@ -105,6 +105,7 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+  font-family: sans-serif;
 }
 
 /*
@@ -172,7 +173,7 @@ sub {
 }
 
 sup {
-  top: -0.5em;
+  top: -0.6em;
 }
 
 /*
