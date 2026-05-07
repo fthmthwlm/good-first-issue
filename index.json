@@ -1,3 +1,13 @@
 [
-  { "name": "fthmthwlm", "link": "https://github.com/fthmthwlm", "style": { "background-color": "LightBlue" }, "dark": { "background-color": "DarkBlue" } }
+  {
+    "name": "fthmthwlm",
+    "link": "https://github.com/fthmthwlm",
+    "style": { "background-color": "LightBlue" },
+    "dark": { "background-color": "DarkBlue" }
+  },
+  {
+    "name": "Anatoliy",
+    "link": "https://github.com/anatoliy-kovtun",
+    "style": { "background-color": "aliceblue" }
+  }
 ]
