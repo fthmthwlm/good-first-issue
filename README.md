@@ -1,5 +1,5 @@
 # Good First Issue
-
+Open source is useful as a collaborative model where anyone can view, modify, and share code. It provides cost savings, high flexibility, total transparency, and strong security through peer review. Major benefits include avoiding vendor lock-in and tapping into global community support.
 🚀 Let’s Contribute to Open Source!
 
 ## Introduction
